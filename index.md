@@ -3,6 +3,12 @@ layout: default
 title: Index
 ---
 
+## Welcome!
+
+Welcome to the official site of KudProject.
+
+Join KudProject on Telegram [channel](https://t.me/KudProject) or [community group](https://t.me/joinchat/DX68OkNCY52AYuKKwg9DVQ) for up-to-date news about KudProject! Joining the community group also allows you to discuss things (even stuffs you like) with others.
+
 ## About
 
 KudProject is a solo project that was started in March 2016 with KudTW for Galaxy J2 LTE (j2lte), which later renamed to KudKernel in later releases before discontinued shortly after due to lack of actual device and testers. KudKernel was also available for Galaxy S4 GT-I9500 (ja3gxx, previously i9500), also to have it discontinued sooner.
