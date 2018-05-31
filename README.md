@@ -5,4 +5,4 @@ Accessible via:
 * [kudproject.github.io](https://kudproject.github.io)
 * [project.kudspace.ga](https://project.kudspace.ga)
 
-The later two just redirects to the first one.
+Main site is the first one, others are just redirection to the main site.
