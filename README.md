@@ -7,4 +7,4 @@ Accessible via:
 
 Main site is the first one, others are just redirection to the main site.
 
-[![](https://img.shields.io/github/license/KudProject/kudproject.github.io.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![](https://img.shields.io/github/license/KudProject/kudproject.github.io.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
