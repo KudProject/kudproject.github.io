@@ -36,4 +36,4 @@ In addition to GitHub, KudProject is also available on [GitLab](https://gitlab.c
 Downloads are usually provided on ~~[BotStack](https://srv1.botstack.host:9001)~~ (currently down) and [AndroidFileHost](https://androidfilehost.com/?w=profile&uid=95916177934531562). However, for KudKernel for mido, downloads are also provided on [GitHub releases](https://github.com/KudProject/kernel_xiaomi_msm8953/releases) of the source code.
 
 
-_Content provided on this website is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) unless otherwise noted._
+_Contents provided on this website are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) unless otherwise noted._
