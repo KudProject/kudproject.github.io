@@ -20,9 +20,10 @@ The first "real" project under KudProject flag was KudKernel for Xiaomi Redmi 3/
 KudProject works are available for these devices:
 * Samsung Galaxy J2 LTE (j2lte)
 * Samsung Galaxy S4 GT-I9500 (ja3gxx)
-* Asus ZenFone 2 ZE551ML (Z00A)
+* ASUS ZenFone 2 ZE551ML (Z00A)
 * Xiaomi Redmi 3 (Pro) (ido)
 * Xiaomi Redmi Note 4(X) Snapdragon (mido)
+* ASUS ZenFone Max Pro (M1) ZB601/2KL (X00T)
 
 In addition to GitHub, KudProject is also available on [GitLab](https://gitlab.com/KudProject) for several projects, read-only.
 
