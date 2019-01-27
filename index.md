@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Index
+title: Home
 ---
 
 ## Welcome!
 
 Welcome to the official site of KudProject.
 
-Join KudProject on Telegram [channel](https://t.me/KudProject) or [community group](https://t.me/joinchat/DX68OkNCY52AYuKKwg9DVQ) for up-to-date news about KudProject! Joining the community group also allows you to discuss things (even stuffs you like) with others.
+Join KudProject on Telegram [channel](https://t.me/KudProject) or [community group](https://t.me/KudProjectChat) for up-to-date news about KudProject! Joining the community group also allows you to discuss things (even stuffs you like) with others.
+
+Also, don't forget to join [the continuous integration](https://t.me/KudProjectCI) for latest test builds for supported devices!
 
 ## About
 
@@ -30,11 +32,11 @@ In addition to GitHub, KudProject is also available on [GitLab](https://gitlab.c
 ## Active Projects
 
 * [KudKernel for Xiaomi Redmi Note 4(X) Snapdragon (mido)](https://forum.xda-developers.com/showthread.php?t=3750502)
-* [Unofficial Red Wolf Recovery Project for Xiaomi Redmi 3 (Pro) (ido)](https://forum.xda-developers.com/showthread.php?t=3770015)
+* [Official XenonHD 9.0: [mido](https://forum.xda-developers.com/showthread.php?t=3851552) [X00T](https://forum.xda-developers.com/showthread.php?t=3851326)
 
 ## Downloads
 
-Downloads are usually provided on [my webserver](https://dl.kud.space) and [AndroidFileHost](https://androidfilehost.com/?w=profile&uid=95916177934531562). However, for KudKernel for mido, downloads are also provided on [GitHub releases](https://github.com/KudProject/kernel_xiaomi_msm8953/releases) of the source code.
+Downloads are usually provided on [my VPS](https://dl.wafuu.id), ~~[my webserver](https://dl.kud.space)~~ (RIP, 2017-2018) and [AndroidFileHost](https://androidfilehost.com/?w=profile&uid=95916177934531562). However, for KudKernel for mido, downloads are also provided on [GitHub releases](https://github.com/KudProject/kernel_xiaomi_msm8953/releases) of the source code.
 
 ## [Statistics](./stats.html) (Unfinished)
 
