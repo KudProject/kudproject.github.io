@@ -32,7 +32,7 @@ In addition to GitHub, KudProject is also available on [GitLab](https://gitlab.c
 ## Active Projects
 
 * [KudKernel for Xiaomi Redmi Note 4(X) Snapdragon (mido)](https://forum.xda-developers.com/showthread.php?t=3750502)
-* [Official XenonHD 9.0: [mido](https://forum.xda-developers.com/showthread.php?t=3851552) [X00T](https://forum.xda-developers.com/showthread.php?t=3851326)
+* Official XenonHD 9.0: [mido](https://forum.xda-developers.com/showthread.php?t=3851552) [X00T](https://forum.xda-developers.com/showthread.php?t=3851326)
 
 ## Downloads
 
