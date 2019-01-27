@@ -13,5 +13,5 @@ Project Name | Downloads
 
 
 <p align="center">
-_Contents provided on this website are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) unless otherwise noted._
+<i>Contents provided on this website are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> unless otherwise noted.</i>
 </p>
