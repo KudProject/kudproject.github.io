@@ -3,7 +3,9 @@ layout: default
 title: Statistics
 ---
 
-Statistics are provided for information purposes only. Only projects with releases on GitHub will be listed here.
+## Statistics
+
+Statistics are provided for informational purposes only and may not reflect the actual count. Only GitHub projects with releases are listed here.
 
 Project Name | Downloads
 -------------|----------
